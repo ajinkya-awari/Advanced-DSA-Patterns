@@ -20,7 +20,7 @@ Day,Phase,Project Name,Primary Data Structures,Status,Verification Step
 3,Beginner,Phone Directory,Hash Map,✅,O(1) retrieval by name/number
 3,Beginner,Bank Account System,Linked List,✅,Track transaction history chronologically
 4,Intermediate,Autocomplete Search Engine,Trie,✅,Test prefix matching with 1000+ words
-4,Intermediate,Dictionary App,HashMap and Trie,⬜,Combine fast exact lookup with prefix suggestions
+4,Intermediate,Dictionary App,HashMap and Trie,✅,Combine fast exact lookup with prefix suggestions
 4,Intermediate,Chat Application,Message Queue,⬜,Simulate asynchronous message delivery
 4,Intermediate,Pathfinding Visualizer,BFS/DFS,⬜,Compare execution times of both algorithms
 4,Intermediate,Network Packet Routing,Graph,⬜,Simulate node traversal
