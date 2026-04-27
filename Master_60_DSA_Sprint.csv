@@ -1,6 +1,6 @@
 Day,Phase,Project Name,Primary Data Structures,Status,Verification Step
 1,Beginner,Student Record System,Arrays,✅,Test CRUD operations with large dummy data
-1,Beginner,Contact Book,Linked List,⬜,Ensure O(N) search and O(1) insertion
+1,Beginner,Contact Book,Linked List,✅,Ensure O(N) search and O(1) insertion
 1,Beginner,Undo/Redo Feature,Stack,⬜,Implement two stacks (undo & redo) and test edge cases
 1,Beginner,Printer Queue Simulation,Queue,⬜,Handle job prioritization and empty queue exceptions
 1,Beginner,Browser History Manager,Linked List / Stack,⬜,Implement forward/back navigation without memory leaks
