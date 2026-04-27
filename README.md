@@ -129,4 +129,4 @@ pytest Beginner/
 - Specialized in Distributed Systems & Algorithmic Optimization
 
 ---
-*This repository is built as a technical showcase for Senior SDE / SDE II roles.*
+*Engineered for high-performance distributed environments.*
