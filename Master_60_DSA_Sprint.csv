@@ -24,7 +24,7 @@ Day,Phase,Project Name,Primary Data Structures,Status,Verification Step
 4,Intermediate,Chat Application,Message Queue,✅,Simulate asynchronous message delivery
 4,Intermediate,Pathfinding Visualizer,BFS/DFS,✅,Compare execution times of both algorithms
 4,Intermediate,Network Packet Routing,Graph,✅,Simulate node traversal
-4,Intermediate,Job Scheduling System,Priority Queue,⬜,Process jobs based on assigned weight/priority
+4,Intermediate,Job Scheduling System,Priority Queue,✅,Process jobs based on assigned weight/priority
 5,Intermediate,Movie Recommendation System,Graph + HashMap,⬜,Recommend based on shared edges (user preferences)
 5,Intermediate,Family Tree Generator,Binary Tree,⬜,Traverse ancestors and descendants accurately
 5,Intermediate,Expression Evaluator,Stack,⬜,Evaluate postfix/infix mathematical strings
