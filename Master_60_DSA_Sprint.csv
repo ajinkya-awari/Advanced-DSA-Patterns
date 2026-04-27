@@ -18,7 +18,7 @@ Day,Phase,Project Name,Primary Data Structures,Status,Verification Step
 3,Beginner,Simple Text Editor,Stack,✅,Integrate with undo/redo logic
 3,Beginner,Maze Solver,BFS,✅,Find shortest path in a 2D grid
 3,Beginner,Phone Directory,Hash Map,✅,O(1) retrieval by name/number
-3,Beginner,Bank Account System,Linked List,⬜,Track transaction history chronologically
+3,Beginner,Bank Account System,Linked List,✅,Track transaction history chronologically
 4,Intermediate,Autocomplete Search Engine,Trie,⬜,Test prefix matching with 1000+ words
 4,Intermediate,Dictionary App,HashMap and Trie,⬜,Combine fast exact lookup with prefix suggestions
 4,Intermediate,Chat Application,Message Queue,⬜,Simulate asynchronous message delivery

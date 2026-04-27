@@ -1,8 +1,16 @@
 # Session Context
 
+## Current Milestone
+- Transitioning to **Intermediate Projects**.
+- Beginner Phase (1-20) verified and committed.
+
 ## Current Task
-- Setup project environment and standards.
-- Initialize `GEMINI.md`, `memory.md`, and `context.md`.
+- Starting Project 21: **Autocomplete Search Engine** using a **Trie (Prefix Tree)**.
+
+## Project Scope (Project 21)
+- Requirements: Efficient prefix matching, support for large word sets (1000+ words), case-insensitivity.
+- Target Metric: O(L) insertion and search where L is word length.
 
 ## Next Steps
-- Begin implementation of projects from `Master_60_DSA_Sprint.csv` starting with Day 1.
+- Implement Trie data structure.
+- Validate with bulk word insertion and prefix queries.
