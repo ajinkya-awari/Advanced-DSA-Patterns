@@ -10,7 +10,7 @@ Day,Phase,Project Name,Primary Data Structures,Status,Verification Step
 2,Beginner,Hospital Token System,Queue,✅,Implement standard FIFO processing
 2,Beginner,Palindrome Checker,Deque,✅,Check from both ends simultaneously for O(N) time
 2,Beginner,Spell Checker,Hashing,✅,Use a dictionary hash set for O(1) lookups
-2,Beginner,Leaderboard Ranking System,Arrays / Sorting,⬜,Optimize sorting for frequent top-K updates
+2,Beginner,Leaderboard Ranking System,Arrays / Sorting,✅,Optimize sorting for frequent top-K updates
 3,Beginner,Basic Library Management,Arrays,⬜,Track available vs checked-out books
 3,Beginner,Parking Lot Management,Stack,⬜,LIFO vehicle retrieval simulation
 3,Beginner,Online Exam System,Array,⬜,Store MCQ objects and calculate scores dynamically
