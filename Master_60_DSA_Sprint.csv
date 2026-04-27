@@ -15,7 +15,7 @@ Day,Phase,Project Name,Primary Data Structures,Status,Verification Step
 3,Beginner,Parking Lot Management,Stack,✅,LIFO vehicle retrieval simulation
 3,Beginner,Online Exam System,Array,✅,Store MCQ objects and calculate scores dynamically
 3,Beginner,File Compression Simulation,Huffman Coding,✅,Verify encoded string matches expected bit length
-3,Beginner,Simple Text Editor,Stack,⬜,Integrate with undo/redo logic
+3,Beginner,Simple Text Editor,Stack,✅,Integrate with undo/redo logic
 3,Beginner,Maze Solver,BFS,⬜,Find shortest path in a 2D grid
 3,Beginner,Phone Directory,Hash Map,⬜,O(1) retrieval by name/number
 3,Beginner,Bank Account System,Linked List,⬜,Track transaction history chronologically
