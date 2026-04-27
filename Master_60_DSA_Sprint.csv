@@ -25,10 +25,10 @@ Day,Phase,Project Name,Primary Data Structures,Status,Verification Step
 4,Intermediate,Pathfinding Visualizer,BFS/DFS,✅,Compare execution times of both algorithms
 4,Intermediate,Network Packet Routing,Graph,✅,Simulate node traversal
 4,Intermediate,Job Scheduling System,Priority Queue,✅,Process jobs based on assigned weight/priority
-5,Intermediate,Movie Recommendation System,Graph + HashMap,⬜,Recommend based on shared edges (user preferences)
-5,Intermediate,Family Tree Generator,Binary Tree,⬜,Traverse ancestors and descendants accurately
-5,Intermediate,Expression Evaluator,Stack,⬜,Evaluate postfix/infix mathematical strings
-5,Intermediate,Multiplayer Game Turn Manager,Queue,⬜,Cycle through player turns continuously
+5,Intermediate,Movie Recommendation System,Graph + HashMap,✅,Recommend based on shared edges (user preferences)
+5,Intermediate,Family Tree Generator,Binary Tree,✅,Traverse ancestors and descendants accurately
+5,Intermediate,Expression Evaluator,Stack,✅,Evaluate postfix/infix mathematical strings
+5,Intermediate,Multiplayer Game Turn Manager,Queue,✅,Cycle through player turns continuously
 5,Intermediate,Cache Implementation,LRU (Doubly LL + HashMap),⬜,Enforce capacity limits and correct eviction
 5,Intermediate,Task Scheduler,Heap + Queue,⬜,Manage recurring tasks with cooldowns
 6,Intermediate,Railway Map Navigator,Graph Shortest Path,⬜,Implement Dijkstra for station-to-station routing

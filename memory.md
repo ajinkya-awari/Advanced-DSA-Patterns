@@ -9,30 +9,20 @@
 
 ## Progress Summary
 - **Phase 1 (Beginner):** 20/20 Projects Completed. ✅
-- **Phase 2 (Intermediate):** 0/20 Projects Completed. ⏳
+- **Phase 2 (Intermediate):** 10/20 Projects Completed. ⏳
 - **Phase 3 (Advanced):** 0/20 Projects Completed. ⏳
 
-## Completed Projects (Beginner)
-1.  Student Record System (Arrays)
-2.  Contact Book (Linked List)
-3.  Undo/Redo Feature (Stack)
-4.  Printer Queue Simulation (Queue)
-5.  Browser History Manager (Doubly LL)
-6.  Music Playlist (Circular LL)
-7.  Balanced Brackets Validator (Stack)
-8.  Railway Reservation System (Queue + Waitlist)
-9.  Hospital Token System (Queue)
-10. Palindrome Checker (Deque)
-11. Spell Checker (Hash Table with Chaining)
-12. Leaderboard Ranking System (Sorted Array + Binary Search)
-13. Basic Library Management (Array + State Tracking)
-14. Parking Lot Management (Stack + Buffer Simulation)
-15. Online Exam System (Array + State Machine)
-16. File Compression Simulation (Huffman Coding)
-17. Simple Text Editor (Stack-based Undo)
-18. Maze Solver (BFS)
-19. Phone Directory (Hash Map)
-20. Bank Account System (Linked List + Tail Pointer)
+## Completed Projects (Intermediate)
+21. Autocomplete Search Engine (Trie)
+22. Dictionary App (HashMap + Trie)
+23. Chat Application (Message Queue)
+24. Pathfinding Visualizer (BFS/DFS)
+25. Network Packet Routing (Dijkstra)
+26. Job Scheduling System (Max-Heap)
+27. Movie Recommendation System (Bipartite Graph)
+28. Family Tree Generator (Binary Tree)
+29. Expression Evaluator (Stack/Shunting-yard)
+30. Multiplayer Game Turn Manager (Circular Queue)
 
 ## Engineering Constants
 - Strict OOP/Functional paradigms.

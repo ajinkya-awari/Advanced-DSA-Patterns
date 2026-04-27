@@ -1,16 +1,14 @@
 # Session Context
 
 ## Current Milestone
-- Transitioning to **Intermediate Projects**.
-- Beginner Phase (1-20) verified and committed.
+- Intermediate Phase projects 21-30 completed and verified.
 
 ## Current Task
-- Starting Project 21: **Autocomplete Search Engine** using a **Trie (Prefix Tree)**.
+- Proceeding to Project 31: **Cache Implementation (LRU)**.
 
-## Project Scope (Project 21)
-- Requirements: Efficient prefix matching, support for large word sets (1000+ words), case-insensitivity.
-- Target Metric: O(L) insertion and search where L is word length.
+## Project Scope (Project 31)
+- Requirements: Least Recently Used eviction policy, $O(1)$ get/put, fixed capacity.
+- Data Structure: Hash Map + Doubly Linked List.
 
 ## Next Steps
-- Implement Trie data structure.
-- Validate with bulk word insertion and prefix queries.
+- Implement LRU Cache with optimized node movement logic.
