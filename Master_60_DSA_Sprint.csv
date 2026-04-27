@@ -39,12 +39,12 @@ Day,Phase,Project Name,Primary Data Structures,Status,Verification Step
 6,Intermediate,Chatbot Suggestion Engine,Trie + HashMap,✅,Map intent prefixes to responses
 6,Intermediate,Online Auction System,Heap/Priority Queue,✅,Track highest bids in real-time
 6,Intermediate,File System Simulation,Tree + Hashing,✅,Mock directory creation and file mapping
-7,Advanced,Plagiarism Checker,String Matching Algorithms,⬜,Implement KMP or Rabin-Karp
-7,Advanced,Search Engine,Trie + Hashing + Ranking,⬜,Rank results based on frequency and relevance
-7,Advanced,Blockchain Simulation,Linked List + Hashing,⬜,Link blocks using cryptographic hashes (SHA-256 mock)
-7,Advanced,Version Control System,Graph + HashMap,⬜,Simulate commits and branching (DAG)
-7,Advanced,Traffic Navigation System,Graph + Dijkstra,⬜,Factor in edge weights (traffic congestion)
-7,Advanced,Smart City Electricity Grid,Graph + MST,⬜,Implement Kruskal or Prim for minimum cost wiring
+7,Advanced,Plagiarism Checker,String Matching Algorithms,✅,Implement KMP or Rabin-Karp
+7,Advanced,Search Engine,Trie + Hashing + Ranking,✅,Rank results based on frequency and relevance
+7,Advanced,Blockchain Simulation,Linked List + Hashing,✅,Link blocks using cryptographic hashes (SHA-256 mock)
+7,Advanced,Version Control System,Graph + HashMap,✅,Simulate commits and branching (DAG)
+7,Advanced,Traffic Navigation System,Graph + Dijkstra,✅,Factor in edge weights (traffic congestion)
+7,Advanced,Smart City Electricity Grid,Graph + MST,✅,Implement Kruskal or Prim for minimum cost wiring
 8,Advanced,Airline Flight Scheduler,Graph + Shortest Path,⬜,Handle layovers and flight durations
 8,Advanced,DNA Sequence Analyzer,String Algorithms,⬜,Find Longest Common Subsequence (LCS)
 8,Advanced,Spam Email Filter,Hashing + String Matching,⬜,Detect malicious patterns instantly
