@@ -29,16 +29,16 @@ Day,Phase,Project Name,Primary Data Structures,Status,Verification Step
 5,Intermediate,Family Tree Generator,Binary Tree,✅,Traverse ancestors and descendants accurately
 5,Intermediate,Expression Evaluator,Stack,✅,Evaluate postfix/infix mathematical strings
 5,Intermediate,Multiplayer Game Turn Manager,Queue,✅,Cycle through player turns continuously
-5,Intermediate,Cache Implementation,LRU (Doubly LL + HashMap),⬜,Enforce capacity limits and correct eviction
-5,Intermediate,Task Scheduler,Heap + Queue,⬜,Manage recurring tasks with cooldowns
-6,Intermediate,Railway Map Navigator,Graph Shortest Path,⬜,Implement Dijkstra for station-to-station routing
-6,Intermediate,AI Snake Game,Deque + BFS,⬜,Manage snake body segments and path to food
-6,Intermediate,Elevator Simulation,Queue,⬜,Optimize up/down request batching
-6,Intermediate,Social Media Friend Suggestion,Graph Traversal,⬜,Find mutual friends (2nd degree connections)
-6,Intermediate,Online Judge Platform,Heap for Ranking,⬜,Maintain real-time leaderboards efficiently
-6,Intermediate,Chatbot Suggestion Engine,Trie + HashMap,⬜,Map intent prefixes to responses
-6,Intermediate,Online Auction System,Heap/Priority Queue,⬜,Track highest bids in real-time
-6,Intermediate,File System Simulation,Tree + Hashing,⬜,Mock directory creation and file mapping
+5,Intermediate,Cache Implementation,LRU (Doubly LL + HashMap),✅,Enforce capacity limits and correct eviction
+5,Intermediate,Task Scheduler,Heap + Queue,✅,Manage recurring tasks with cooldowns
+6,Intermediate,Railway Map Navigator,Graph Shortest Path,✅,Implement Dijkstra for station-to-station routing
+6,Intermediate,AI Snake Game,Deque + BFS,✅,Manage snake body segments and path to food
+6,Intermediate,Elevator Simulation,Queue,✅,Optimize up/down request batching
+6,Intermediate,Social Media Friend Suggestion,Graph Traversal,✅,Find mutual friends (2nd degree connections)
+6,Intermediate,Online Judge Platform,Heap for Ranking,✅,Maintain real-time leaderboards efficiently
+6,Intermediate,Chatbot Suggestion Engine,Trie + HashMap,✅,Map intent prefixes to responses
+6,Intermediate,Online Auction System,Heap/Priority Queue,✅,Track highest bids in real-time
+6,Intermediate,File System Simulation,Tree + Hashing,✅,Mock directory creation and file mapping
 7,Advanced,Plagiarism Checker,String Matching Algorithms,⬜,Implement KMP or Rabin-Karp
 7,Advanced,Search Engine,Trie + Hashing + Ranking,⬜,Rank results based on frequency and relevance
 7,Advanced,Blockchain Simulation,Linked List + Hashing,⬜,Link blocks using cryptographic hashes (SHA-256 mock)

@@ -1,14 +1,16 @@
 # Session Context
 
 ## Current Milestone
-- Intermediate Phase projects 21-30 completed and verified.
+- Intermediate Phase (21-40) verified and committed.
+- Transitioning to **Advanced Projects**.
 
 ## Current Task
-- Proceeding to Project 31: **Cache Implementation (LRU)**.
+- Starting Project 41: **Plagiarism Checker** using String Matching Algorithms.
 
-## Project Scope (Project 31)
-- Requirements: Least Recently Used eviction policy, $O(1)$ get/put, fixed capacity.
-- Data Structure: Hash Map + Doubly Linked List.
+## Project Scope (Project 41)
+- Requirements: Efficient sub-string matching, KMP or Rabin-Karp implementation, support for multi-document comparison.
+- Target Metric: O(N + M) matching efficiency.
 
 ## Next Steps
-- Implement LRU Cache with optimized node movement logic.
+- Implement string matching algorithm (KMP/Rabin-Karp).
+- Validate with document pair analysis.

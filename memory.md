@@ -9,7 +9,7 @@
 
 ## Progress Summary
 - **Phase 1 (Beginner):** 20/20 Projects Completed. ✅
-- **Phase 2 (Intermediate):** 10/20 Projects Completed. ⏳
+- **Phase 2 (Intermediate):** 20/20 Projects Completed. ✅
 - **Phase 3 (Advanced):** 0/20 Projects Completed. ⏳
 
 ## Completed Projects (Intermediate)
@@ -23,6 +23,16 @@
 28. Family Tree Generator (Binary Tree)
 29. Expression Evaluator (Stack/Shunting-yard)
 30. Multiplayer Game Turn Manager (Circular Queue)
+31. LRU Cache (Doubly LL + HashMap)
+32. Task Scheduler (Heap + Queue)
+33. Railway Map Navigator (Dijkstra)
+34. AI Snake Game (BFS + Deque)
+35. Elevator Simulation (SCAN Queue)
+36. Social Media Friend Suggestion (Graph Traversal)
+37. Online Judge Leaderboard (Max-Heap)
+38. Chatbot Suggestion Engine (Trie + HashMap)
+39. Online Auction System (Max-Heap)
+40. File System Simulation (Tree + Hashing)
 
 ## Engineering Constants
 - Strict OOP/Functional paradigms.
