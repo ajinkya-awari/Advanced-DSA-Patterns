@@ -157,3 +157,6 @@ agent.json
 .history
 chat_history.md
 *.log
+GEMINI.md
+memory.md
+context.md
