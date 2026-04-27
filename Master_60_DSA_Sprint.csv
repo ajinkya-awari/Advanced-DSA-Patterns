@@ -45,18 +45,18 @@ Day,Phase,Project Name,Primary Data Structures,Status,Verification Step
 7,Advanced,Version Control System,Graph + HashMap,✅,Simulate commits and branching (DAG)
 7,Advanced,Traffic Navigation System,Graph + Dijkstra,✅,Factor in edge weights (traffic congestion)
 7,Advanced,Smart City Electricity Grid,Graph + MST,✅,Implement Kruskal or Prim for minimum cost wiring
-8,Advanced,Airline Flight Scheduler,Graph + Shortest Path,⬜,Handle layovers and flight durations
-8,Advanced,DNA Sequence Analyzer,String Algorithms,⬜,Find Longest Common Subsequence (LCS)
-8,Advanced,Spam Email Filter,Hashing + String Matching,⬜,Detect malicious patterns instantly
-8,Advanced,Online Multiplayer Matchmaking,Disjoint Set (Union-Find),⬜,Group players by skill brackets
-8,Advanced,Memory Allocation Simulator,Heap + Queue,⬜,Simulate OS malloc/free operations
-8,Advanced,Distributed File Sharing,Graph + DSU,⬜,Find connected peer-to-peer nodes
-9,Advanced,AI Chess Game,Minimax + Tree Traversal,⬜,Implement Alpha-Beta pruning
-9,Advanced,Hospital Management System,Heap + Priority Scheduling,⬜,Triage patients based on severity
-9,Advanced,Weather Forecast Data Manager,Segment Tree,⬜,Query range minimum/maximum temperatures efficiently
-9,Advanced,Big Data Log Analyzer,Trie + HashMap,⬜,Parse and aggregate millions of log entries
-9,Advanced,Auto-Correct Keyboard,Trie + DP,⬜,Use Levenshtein distance for typo correction
-9,Advanced,Fraud Transaction Detector,Graph + DSU,⬜,Detect cyclical transaction rings
-10,Advanced,Image Compression Tool,Graph + Huffman,⬜,Map pixel frequencies to Huffman trees
-10,Advanced,Compiler Design,Parsing with Stack + Tree,⬜,Build an Abstract Syntax Tree (AST)
+8,Advanced,Airline Flight Scheduler,Graph + Shortest Path,✅,Handle layovers and flight durations
+8,Advanced,DNA Sequence Analyzer,String Algorithms,✅,Find Longest Common Subsequence (LCS)
+8,Advanced,Spam Email Filter,Hashing + String Matching,✅,Detect malicious patterns instantly
+8,Advanced,Online Multiplayer Matchmaking,Disjoint Set (Union-Find),✅,Group players by skill brackets
+8,Advanced,Memory Allocation Simulator,Heap + Queue,✅,Simulate OS malloc/free operations
+8,Advanced,Distributed File Sharing,Graph + DSU,✅,Find connected peer-to-peer nodes
+9,Advanced,AI Chess Game,Minimax + Tree Traversal,✅,Implement Alpha-Beta pruning
+9,Advanced,Hospital Management System,Heap + Priority Scheduling,✅,Triage patients based on severity
+9,Advanced,Weather Forecast Data Manager,Segment Tree,✅,Query range minimum/maximum temperatures efficiently
+9,Advanced,Big Data Log Analyzer,Trie + HashMap,✅,Parse and aggregate millions of log entries
+9,Advanced,Auto-Correct Keyboard,Trie + DP,✅,Use Levenshtein distance for typo correction
+9,Advanced,Fraud Transaction Detector,Graph + DSU,✅,Detect cyclical transaction rings
+10,Advanced,Image Compression Tool,Graph + Huffman,✅,Map pixel frequencies to Huffman trees
+10,Advanced,Compiler Design,Parsing with Stack + Tree,✅,Build an Abstract Syntax Tree (AST)
 10,Review,Code Review & GitHub Push,All Repo Files,⬜,Final formatting; ensure enterprise-grade READMEs
